@@ -21,4 +21,4 @@ cd faasd
 ./hack/install.sh
 ```
 
-Note: this method does not enable TLS, but is the easiest to use for testing. The Terraform installation includes automatic TLS, or you can add it using the instructions in a later chapter.
+Note: this method does not enable TLS, but is the easiest to use for testing. The Terraform installation includes automatic TLS, or you can add it using the instructions in a later chapter.
